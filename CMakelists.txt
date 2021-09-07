@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.8)
+project(cpp_notes)
+
+add_subdirectory(cpp_effective)
+add_subdirectory(stl_effective)
+add_subdirectory(multi_thread)
+add_subdirectory(files)
